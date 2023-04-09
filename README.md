@@ -2,4 +2,4 @@
 
 - Top 4 CSE Minathon Atware Vietnam 2023 - Deadlython - Podcast app for healing
 
-- Repo Project: https://github.com/thoaikun/HearYou
+- Root Repo: https://github.com/thoaikun/HearYou
