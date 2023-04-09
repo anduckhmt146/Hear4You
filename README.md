@@ -37,7 +37,7 @@ https://user-images.githubusercontent.com/86992472/230792690-07cb2682-2de8-416a-
 
 ## Listen Podcast
 
-Account viewer can publish a podcast to our firebase server.
+Account viewer can listen a podcast in our firebase storage.
 
 ```
   email: viewer@gmail.com
