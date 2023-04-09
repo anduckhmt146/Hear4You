@@ -1,6 +1,8 @@
-# Hear4U - Deadlython - CSE Minathon 2023
+# Hear4You
 
-Top 4 CSE Minathon Atware Vietnam 2023 - Deadlython - Podcast app for healing
+Top 4 CSE Minathon Atware Vietnam 2023 - Deadlython - Hear4You.
+
+Description: Podcast paradise for healing.
 
 Root Repo: https://github.com/thoaikun/HearYou
 
