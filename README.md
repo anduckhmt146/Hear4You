@@ -12,4 +12,6 @@ Here is some sample screen, another details you can experience in our slide demo
 ![Login](https://user-images.githubusercontent.com/86992472/230784708-06c88a96-61bd-43a3-87e3-f39dee210f92.png)
 
 ## MusicPlayer Screen
-![PlayMusic](https://user-images.githubusercontent.com/86992472/230784712-4f790ad1-3123-4b02-8476-1159f24417e7.png)
+
+![Playing](https://user-images.githubusercontent.com/86992472/230784810-53af61a2-f792-435c-a164-f5a47a7df541.png)
+
