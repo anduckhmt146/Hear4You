@@ -1,4 +1,4 @@
-# Minathon2023 Deadlython Hear4U
+# Hear4U - Deadlython
 
 - Top 4 CSE Minathon Atware Vietnam 2023 - Deadlython - Podcast app for healing
 
